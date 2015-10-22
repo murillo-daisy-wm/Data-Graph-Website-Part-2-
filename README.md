@@ -22,7 +22,7 @@ Try adding additional DOM manipulation like changing styles (background or text 
 
 **Set Up**
 
-  1. Fork this repository and clone it to your local maching
+  1. Fork this repository and clone it to your local machine
   2. Be very careful to name it correctly and point it to the right directory
   3. Copy the source code files from the Data Website Project, which was completed last week
   4. Past it in the new project folder (this way you don't have to start over from scratch)

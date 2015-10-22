@@ -1,0 +1,47 @@
+body {
+    background-color: black ;
+    background-image: url("http://media.tumblr.com/3ee0ebee32e409c92807a3315dff6b67/tumblr_inline_mkuxveD86f1qz4rgp.jpg");
+}
+
+a {
+
+}
+
+#header {
+    text-align: center;
+    font-family: "courier new";
+    background-color: lightgray;
+
+}
+#content{
+
+    color: black;
+    text-align: center;
+    background-color: lightsalmon;
+    padding: 7px;
+    border-radius: 20px;
+    width: 50%;
+    height: auto;
+    position: relative; right: -350px;
+}
+
+#definition {
+    color: black;
+    text-align: center;
+    background-color: lightsalmon;
+    border-radius: 20px;
+    width: 40%;
+    height: 20%;
+    float: right;
+}
+
+.right {
+    background-color: black;
+}
+#test {
+    width:100%;
+    height:100%;
+}
+table {
+    margin: 0 auto; /* or margin: 0 auto 0 auto */
+}
